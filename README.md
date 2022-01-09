@@ -2,7 +2,7 @@
 
 # Query Understanding Topics
 ## I. Spelling Correction
-An improved noisy channel model: https://aclanthology.org/D09-1093.pdf
+An improved noisy channel model to start with: https://aclanthology.org/D09-1093.pdf
 
 ## II. Query Rewritting
 
